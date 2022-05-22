@@ -1,0 +1,10 @@
+C:\Users\jacka\Desktop\software dev practices\cmp307-coursework-Jsheriff20\doge_financial_secure_messaging\socket_async\bin\Debug\socket_async.dll
+C:\Users\jacka\Desktop\software dev practices\cmp307-coursework-Jsheriff20\doge_financial_secure_messaging\socket_async\bin\Debug\socket_async.pdb
+C:\Users\jacka\Desktop\software dev practices\cmp307-coursework-Jsheriff20\doge_financial_secure_messaging\socket_async\obj\Debug\socket_async.csprojAssemblyReference.cache
+C:\Users\jacka\Desktop\software dev practices\cmp307-coursework-Jsheriff20\doge_financial_secure_messaging\socket_async\obj\Debug\socket_async.dll
+C:\Users\jacka\Desktop\software dev practices\cmp307-coursework-Jsheriff20\doge_financial_secure_messaging\socket_async\obj\Debug\socket_async.pdb
+C:\Users\Jack\Desktop\Software Dev practices\cmp307-coursework-Jsheriff20\doge_financial_secure_messaging\socket_async\bin\Debug\socket_async.dll
+C:\Users\Jack\Desktop\Software Dev practices\cmp307-coursework-Jsheriff20\doge_financial_secure_messaging\socket_async\bin\Debug\socket_async.pdb
+C:\Users\Jack\Desktop\Software Dev practices\cmp307-coursework-Jsheriff20\doge_financial_secure_messaging\socket_async\obj\Debug\socket_async.csprojAssemblyReference.cache
+C:\Users\Jack\Desktop\Software Dev practices\cmp307-coursework-Jsheriff20\doge_financial_secure_messaging\socket_async\obj\Debug\socket_async.dll
+C:\Users\Jack\Desktop\Software Dev practices\cmp307-coursework-Jsheriff20\doge_financial_secure_messaging\socket_async\obj\Debug\socket_async.pdb

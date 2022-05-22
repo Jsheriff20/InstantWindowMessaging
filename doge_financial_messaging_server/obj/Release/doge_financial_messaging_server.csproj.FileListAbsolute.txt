@@ -1,0 +1,17 @@
+C:\Users\jacka\Desktop\software dev practices\cmp307-coursework-Jsheriff20\doge_financial_secure_messaging\doge_financial_messaging_server\bin\Release\doge_financial_messaging_server.exe.config
+C:\Users\jacka\Desktop\software dev practices\cmp307-coursework-Jsheriff20\doge_financial_secure_messaging\doge_financial_messaging_server\bin\Release\doge_financial_messaging_server.exe
+C:\Users\jacka\Desktop\software dev practices\cmp307-coursework-Jsheriff20\doge_financial_secure_messaging\doge_financial_messaging_server\bin\Release\doge_financial_messaging_server.pdb
+C:\Users\jacka\Desktop\software dev practices\cmp307-coursework-Jsheriff20\doge_financial_secure_messaging\doge_financial_messaging_server\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\jacka\Desktop\software dev practices\cmp307-coursework-Jsheriff20\doge_financial_secure_messaging\doge_financial_messaging_server\bin\Release\Google.Protobuf.dll
+C:\Users\jacka\Desktop\software dev practices\cmp307-coursework-Jsheriff20\doge_financial_secure_messaging\doge_financial_messaging_server\bin\Release\MySql.Data.dll
+C:\Users\jacka\Desktop\software dev practices\cmp307-coursework-Jsheriff20\doge_financial_secure_messaging\doge_financial_messaging_server\bin\Release\Renci.SshNet.dll
+C:\Users\jacka\Desktop\software dev practices\cmp307-coursework-Jsheriff20\doge_financial_secure_messaging\doge_financial_messaging_server\bin\Release\Google.Protobuf.xml
+C:\Users\jacka\Desktop\software dev practices\cmp307-coursework-Jsheriff20\doge_financial_secure_messaging\doge_financial_messaging_server\bin\Release\MySql.Data.xml
+C:\Users\jacka\Desktop\software dev practices\cmp307-coursework-Jsheriff20\doge_financial_secure_messaging\doge_financial_messaging_server\bin\Release\Renci.SshNet.xml
+C:\Users\jacka\Desktop\software dev practices\cmp307-coursework-Jsheriff20\doge_financial_secure_messaging\doge_financial_messaging_server\obj\Release\doge_financial_messaging_server.csprojAssemblyReference.cache
+C:\Users\jacka\Desktop\software dev practices\cmp307-coursework-Jsheriff20\doge_financial_secure_messaging\doge_financial_messaging_server\obj\Release\doge_financial_messaging_server.Form1.resources
+C:\Users\jacka\Desktop\software dev practices\cmp307-coursework-Jsheriff20\doge_financial_secure_messaging\doge_financial_messaging_server\obj\Release\doge_financial_messaging_server.Properties.Resources.resources
+C:\Users\jacka\Desktop\software dev practices\cmp307-coursework-Jsheriff20\doge_financial_secure_messaging\doge_financial_messaging_server\obj\Release\doge_financial_messaging_server.csproj.GenerateResource.cache
+C:\Users\jacka\Desktop\software dev practices\cmp307-coursework-Jsheriff20\doge_financial_secure_messaging\doge_financial_messaging_server\obj\Release\doge_financial_messaging_server.csproj.CopyComplete
+C:\Users\jacka\Desktop\software dev practices\cmp307-coursework-Jsheriff20\doge_financial_secure_messaging\doge_financial_messaging_server\obj\Release\doge_financial_messaging_server.exe
+C:\Users\jacka\Desktop\software dev practices\cmp307-coursework-Jsheriff20\doge_financial_secure_messaging\doge_financial_messaging_server\obj\Release\doge_financial_messaging_server.pdb

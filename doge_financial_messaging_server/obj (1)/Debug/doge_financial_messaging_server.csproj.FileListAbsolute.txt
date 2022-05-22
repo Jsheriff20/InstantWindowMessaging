@@ -1,0 +1,9 @@
+C:\Users\Jack\Desktop\Software Dev practices\cmp307-coursework-Jsheriff20\doge_financial_secure_messaging\doge_financial_messaging_server\bin\Debug\doge_financial_messaging_server.exe.config
+C:\Users\Jack\Desktop\Software Dev practices\cmp307-coursework-Jsheriff20\doge_financial_secure_messaging\doge_financial_messaging_server\bin\Debug\doge_financial_messaging_server.exe
+C:\Users\Jack\Desktop\Software Dev practices\cmp307-coursework-Jsheriff20\doge_financial_secure_messaging\doge_financial_messaging_server\bin\Debug\doge_financial_messaging_server.pdb
+C:\Users\Jack\Desktop\Software Dev practices\cmp307-coursework-Jsheriff20\doge_financial_secure_messaging\doge_financial_messaging_server\obj\Debug\doge_financial_messaging_server.csprojAssemblyReference.cache
+C:\Users\Jack\Desktop\Software Dev practices\cmp307-coursework-Jsheriff20\doge_financial_secure_messaging\doge_financial_messaging_server\obj\Debug\doge_financial_messaging_server.Properties.Resources.resources
+C:\Users\Jack\Desktop\Software Dev practices\cmp307-coursework-Jsheriff20\doge_financial_secure_messaging\doge_financial_messaging_server\obj\Debug\doge_financial_messaging_server.csproj.GenerateResource.cache
+C:\Users\Jack\Desktop\Software Dev practices\cmp307-coursework-Jsheriff20\doge_financial_secure_messaging\doge_financial_messaging_server\obj\Debug\doge_financial_messaging_server.csproj.CoreCompileInputs.cache
+C:\Users\Jack\Desktop\Software Dev practices\cmp307-coursework-Jsheriff20\doge_financial_secure_messaging\doge_financial_messaging_server\obj\Debug\doge_financial_messaging_server.exe
+C:\Users\Jack\Desktop\Software Dev practices\cmp307-coursework-Jsheriff20\doge_financial_secure_messaging\doge_financial_messaging_server\obj\Debug\doge_financial_messaging_server.pdb
